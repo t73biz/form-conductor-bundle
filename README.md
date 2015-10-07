@@ -19,3 +19,7 @@ You can find the documentation [here!](Resources/doc/index.md)
 #TODO
 
 * Implement more endpoints
+
+#Version
+
+0.1.0
