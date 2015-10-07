@@ -22,10 +22,5 @@
             "T73Biz\\Bundle\\FormConductorBundle" : ""
         }
     },
-    "target-dir" : "T73Biz/Bundle/FormConductorBundle",
-    "extra" : {
-	    "branch-alias" : {
-            "dev-master" : "0.1.0-dev"
-        }
-    }
+    "target-dir" : "T73Biz/Bundle/FormConductorBundle"
 }
