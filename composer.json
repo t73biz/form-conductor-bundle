@@ -1,0 +1,26 @@
+{
+    "name" : "t73biz/formstack-conductor",
+    "description" : "A Symfony2 Bundle to use with Formstack API",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Ronald Chaplin",
+        "email" : "rchaplin@t73.biz"
+    }],
+    "keywords" : [
+        "formstack",
+        "symfony2",
+        "bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "T73Biz\\Bundle\\FormConductorBundle" : ""
+        }
+    },
+    "target-dir" : "T73Biz/Bundle/FormConductorBundle"
+}
