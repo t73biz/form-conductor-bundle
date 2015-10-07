@@ -1,0 +1,4 @@
+services:
+#    t73_biz_form_conductor.example:
+#        class: T73Biz\Bundle\FormConductorBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
