@@ -1,5 +1,5 @@
 {
-    "name" : "t73biz/form-conductor-bundle",
+    "name" : "t73biz/formstack-conductor",
     "description" : "A Symfony2 Bundle to use with Formstack API",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -15,6 +15,7 @@
         "MIT"
     ],
     "require" : {
+        "guzzlehttp/guzzle": "^6.1"
     },
     "autoload" : {
         "psr-0" : {

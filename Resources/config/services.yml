@@ -1,4 +1,6 @@
 services:
-#    t73_biz_form_conductor.example:
-#        class: T73Biz\Bundle\FormConductorBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]
+    t73_biz_form_conductor.conductor:
+        class: T73Biz\Bundle\FormConductorBundle\Service\Conductor
+        arguments: 
+            - %t73_biz_form_conductor.access_token%
+            - %t73_biz_form_conductor.base_uri%

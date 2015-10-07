@@ -1,3 +1,0 @@
-t73_biz_form_conductor_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: T73BizFormConductorBundle:Default:index }
