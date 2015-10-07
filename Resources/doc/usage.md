@@ -10,7 +10,7 @@ There are only 2 endpoints that are currently implemented for the Conductor Serv
 
 To be able to use the Conductor Service from within you controller, you can use it as follows:
 
-'''php
+```php
 // src/AppBundle/Controller/DefaultController
 
 <?php
